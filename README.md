@@ -1,6 +1,6 @@
 Hi, I'm Rubin👋
 
-- 💻 Seasoned data scientist with over six years of experience
+- 💻 Seasoned data scientist and a contributor on [Kaggle](https://www.kaggle.com/rubinr12)
 - 🏆 Specialization in machine learning, predictive modeling and time series forecasting
 - 🎯 Passionate about advanced algorithms and big data to solve complex problems
 - 📊 I teach coding, data science, statistics and machine learning in python and R
